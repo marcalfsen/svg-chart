@@ -1,0 +1,204 @@
+{
+  "title": "Formulaire",
+  "groups": [{
+      "name": "rated",
+      "alias": "Mon offre",
+      "popupInfo":"Put the info here!",
+      "note": 5,
+      "color": "#0000ff",
+      "value": 0,
+      "percentage": 0,
+      "thematiques": [{
+          "ele": "thematique1",
+          "alias": "thematique 1",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/4Marcello_moscatelli_varallo.jpg"
+        },
+        {
+          "ele": "thematique2",
+          "alias": "thematique s",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/4Marcello_moscatelli_varallo.jpg"
+        },
+        {
+          "ele": "thematique3",
+          "alias": "thematique 3",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        },
+        {
+          "ele": "thematique4",
+          "alias": "thematique 4",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        },
+        {
+          "ele": "thematique5",
+          "alias": "thematique 5",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        }
+      ]
+    },
+    {
+      "name": "rated1",
+      "alias": "Ma communaute",
+      "popupInfo":"Put the info here!",
+      "note": 5,
+      "color": "#cc9900",
+      "value": 0,
+      "percentage": 0,
+      "thematiques": [{
+          "ele": "thematique6",
+          "alias": "thematique 6",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        },
+        {
+          "ele": "thematique7",
+          "alias": "thematique 7",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        },
+        {
+          "ele": "thematique8",
+          "alias": "thematique 8",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        },
+        {
+          "ele": "thematique9",
+          "alias": "thematique 9",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        },
+        {
+          "ele": "thematique10",
+          "alias": "thematique 10",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        }
+      ]
+    },
+    {
+      "name": "rated2",
+      "alias": "Mon environnement",
+      "popupInfo":"Put the info here!",
+      "note": 5,
+      "color": "#006600",
+      "value": 0,
+      "percentage": 0,
+      "thematiques": [{
+          "ele": "thematique11",
+          "alias": "thematique 11",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        },
+        {
+          "ele": "thematique12",
+          "alias": "thematique 12",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        },
+        {
+          "ele": "thematique13",
+          "alias": "thematique 13",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        },
+        {
+          "ele": "thematique14",
+          "alias": "thematique 14",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        },
+        {
+          "ele": "thematique15",
+          "alias": "thematique 15",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        }
+      ]
+    },
+    {
+      "name": "rated3",
+      "alias": "Mes projets",
+      "popupInfo":"Put the info here!",
+      "note": 5,
+      "color": "#990033",
+      "value": 0,
+      "percentage": 0,
+      "thematiques": [{
+          "ele": "thematique16",
+          "alias": "thematique 16",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        },
+        {
+          "ele": "thematique17",
+          "alias": "thematique 17",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        },
+        {
+          "ele": "thematique18",
+          "alias": "thematique 18",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        },
+        {
+          "ele": "thematique19",
+          "alias": "thematique 19",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        },
+        {
+          "ele": "thematique20",
+          "alias": "thematique 20",
+          "val": 1,
+          "fields": "Click here for more info!",
+          "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, impedit nam laboriosam quasi possimus, error repellat vitae eaque nobis incidunt cumque iusto quae totam distinctio cum doloribus corrupti quaerat autem.",
+          "imageSRC":"./widgets/Demo/images/bakouute.jpg"
+        }
+      ]
+    }
+  ]
+}
